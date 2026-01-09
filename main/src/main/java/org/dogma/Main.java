@@ -1,4 +1,4 @@
-package org.example;
+package org.dogma;
 
 public class Main {
     static int lifePoints = 2;
